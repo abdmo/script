@@ -1,7 +1,8 @@
 # script
 
 ## dotfiles-install.sh
-* Navigate to ~ and execute below to setup [dotfiles](https://github.com/abdmo/dotfiles)
+* To quickly setup dotfiles repo
+* Execute below to setup [dotfiles](https://github.com/abdmo/dotfiles)
 ```shell
 $ curl https://raw.githubusercontent.com/abdmo/script/master/dotfiles-install.sh | /bin/bash
 ```
